@@ -3,7 +3,8 @@
 
 def key_for_min_value(name_hash)
   hash.collect do |key1, value1|
-    if 
+    if hash[key1] == hash[key2]
+      
 end
 
 
